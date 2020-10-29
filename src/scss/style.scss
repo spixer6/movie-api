@@ -25,7 +25,7 @@ body {
   text-align: center;
   font-size: 3.8rem;
 }
-.movie-grid {
+#movie-grid {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -95,6 +95,7 @@ body {
   align-items: center;
 }
 .movie-genre {
+  text-align: center;
   list-style: none;
 }
 .user-score {
